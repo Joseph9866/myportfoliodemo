@@ -20,12 +20,12 @@ const Home = () => {
             <h1 className="text-4xl md:text-6xl font-bold text-slate-800 mb-6">
               Hi, I'm{' '}
               <span className="bg-gradient-to-r from-blue-600 to-emerald-600 bg-clip-text text-transparent">
-                Joseph Kimani
+                Joseph Kiarie kimani
               </span>
             </h1>
             
             <p className="text-xl md:text-2xl text-slate-600 mb-4">
-              Full-Stack Web Developer
+              Full-Stack Web Developer and AI Automation enginner
             </p>
 
             <div className="flex items-center justify-center text-slate-500 mb-8">
